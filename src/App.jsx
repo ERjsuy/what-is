@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div className="min-h-screen bg-gray-100 text-gray-800 p-6 flex items-center justify-center">
-      <div className="bg-white shadow-2xl rounded-2xl p-10 max-w-3xl w-full">
+      <div className="bg-white shadow-2xl rounded-2xl p-10  w-250 h-160">
         <div className="flex flex-col items-center gap-4">
           <h1 className="text-4xl font-bold text-blue-600">Эржан</h1>
           <p className="text-lg text-center">
@@ -31,9 +31,9 @@ function App() {
         <div className=" h-40 mt-8">
           <h2 className="text-2xl font-weight: 600 mb-4">Контакты</h2>
           <ul className="h-20">
-            <li className=""><strong>Email:</strong><a href="erjsuy44@gmail.com"> erjsuy44@gmail.com </a></li>
-            <li><strong>Telegram:</strong> <a href="https://t.me/@Nekitigoser"> Warker</a></li>
-            <li><strong>GitHub:</strong> <a href="https://github.com/ERjsuy">"Сюда"</a></li>
+            <li className=""><p className="text-lg font-bold">Email:</p><a href="erjsuy44@gmail.com"> erjsuy44@gmail.com </a></li>
+            <li><p className="text-lg font-bold">Telegram:</p> <a href="https://t.me/@Nekitigoser"> Warker</a></li>
+            <li><p className="text-lg font-bold">GitHub:</p> <a href="https://github.com/ERjsuy">"Сюда"</a></li>
           </ul>
         </div>
       </div>
