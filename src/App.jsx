@@ -14,7 +14,7 @@ function App() {
         </div>
 
         <div className="mt-8">
-          <h2 className="text-2xl font-semibold mb-4">Навыки</h2>
+          <h2 className="text-2xl font-weight: 600 mb-4">Навыки</h2>
           <ul className="flex flex-wrap gap-4 text-white">
             <li className="bg-blue-500 w-20 h-12 rounded-full flex justify-center items-center">HTML</li>
             <li className="bg-blue-500 w-20 rounded-full flex justify-center items-center">CSS</li>
@@ -24,12 +24,12 @@ function App() {
         </div>
 
         <div className="mt-8">
-          <h2 className="text-2xl font-semibold mb-4">Опыт</h2>
+          <h2 className="text-2xl font-weight: 600 mb-4">Опыт</h2>
           <p>Разработка проектов на React, работа с Tailwind CSS, создание адаптивных и современных интерфейсов.</p>
         </div>
 
         <div className=" h-40 mt-8">
-          <h2 className="text-2xl font-semibold mb-4">Контакты</h2>
+          <h2 className="text-2xl font-weight: 600 mb-4">Контакты</h2>
           <ul className="h-20">
             <li className=""><strong>Email:</strong><a href="erjsuy44@gmail.com"> erjsuy44@gmail.com </a></li>
             <li><strong>Telegram:</strong> <a href="https://t.me/@Nekitigoser"> Warker</a></li>
